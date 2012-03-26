@@ -1,0 +1,9 @@
+[submodule "haxe_impl"]
+	path = haxe_impl
+	url = git@github.com:Kerogi/kostenko_cpw_haxe.git
+[submodule "cpp_impl"]
+	path = cpp_impl
+	url = git@github.com:Kerogi/kostenko_cpw_cpp.git
+[submodule "csharp_impl"]
+	path = csharp_impl
+	url = git@github.com:Kerogi/kostenko_cpw_csharp.git
